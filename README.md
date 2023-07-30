@@ -13,7 +13,11 @@
     <li>📡 Telecommunications Engineer </li>
     <li>🌱 I'm currently studying to become a FullStack Developer.</li>
   </ul>    
-
+</div>
+<hr>
+<div align="center">
+  <h2>How to reach me? My socials! </h2>
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2F_iSMP14">
 </div>
 <!--
 **iSMP14/iSMP14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
