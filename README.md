@@ -1,4 +1,5 @@
-<div class="header" align="center"> Hello, I'm Javier Cartes, also known as iSMP. </div>
+<div class="header" align="center"> <h1>Hello, I'm Javier Cartes, also known as iSMP. </h1> </div>
+<br>
 <div align="center" width="200px">
   <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
 </div>
