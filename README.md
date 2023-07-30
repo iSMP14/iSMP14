@@ -25,7 +25,7 @@
 <hr>
 
 <div>
-  <img src="(https://github-readme-stats.vercel.app/api?username=iSMP14&show_icons=true&theme=aura)">
+  <img src="https://github-readme-stats.vercel.app/api?username=iSMP14&show_icons=true&theme=aura">
 </div>
   
 <!--
