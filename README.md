@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
 </div>
 <hr>
-<div>
+<div class="Aboutme">
   <h2 align="center">About me:</h2>
   <ul align="left">
     <li>😶 I'm Javier Cartes, From Chile.</li>
@@ -15,7 +15,7 @@
   </ul>    
 </div>
 <hr>
-<div align="center">
+<div class="Socials" align="center">
   <h2>How to reach me? My socials! </h2>
   <a href="https://twitter.com/_iSMP14">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_iSMP14">
@@ -24,9 +24,12 @@
 </div>
 <hr>
 
-<div>
+<div class="Stats" align="center">
   <a href="https://github.com/iSMP14">
     <img src="https://github-readme-stats.vercel.app/api?username=iSMP14&show_icons=true&theme=aura">
+  </a>
+  <a href="https://github.com/iSMP14">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSMP14&layout=compact&langs_count=7&theme=aura">
   </a>
 </div>
   
