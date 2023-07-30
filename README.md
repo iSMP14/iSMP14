@@ -28,6 +28,7 @@
   <a href="https://github.com/iSMP14">
     <img src="https://github-readme-stats.vercel.app/api?username=iSMP14&show_icons=true&theme=aura">
   </a>
+  <br>
   <a href="https://github.com/iSMP14">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSMP14&layout=compact&langs_count=7&theme=aura">
   </a>
