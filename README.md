@@ -25,7 +25,9 @@
 <hr>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=iSMP14&show_icons=true&theme=aura">
+  <a href="https://github.com/iSMP14">
+    <img src="https://github-readme-stats.vercel.app/api?username=iSMP14&show_icons=true&theme=aura">
+  </a>
 </div>
   
 <!--
