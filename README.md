@@ -17,7 +17,8 @@
 <hr>
 <div align="center">
   <h2>How to reach me? My socials! </h2>
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_iSMP14">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2F_iSMP14">
+
 
 </div>
 <!--
