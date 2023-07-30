@@ -1,5 +1,5 @@
-Hello, I'm Javier Cartes, also known as iSMP.
-<div aling="center">
+<div class="header" align="center"> Hello, I'm Javier Cartes, also known as iSMP. </div>
+<div align="center" width="200px">
   <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
 </div>
 <!--
