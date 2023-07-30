@@ -3,6 +3,18 @@
 <div align="center" width="200px">
   <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
 </div>
+<hr>
+<div>
+  <h2 align="center">About me:</h2>
+  <ul align="left">
+    <li>😶 I'm Javier Cartes, From Chile.</li>
+    <li>😶 I'm 24 years old.</li>
+    <li>👅 ES/EN</li>
+    <li>📡 Telecommunications Engineer </li>
+    <li>🌱 I'm currently studying to become a FullStack Developer.</li>
+  </ul>    
+
+</div>
 <!--
 **iSMP14/iSMP14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
