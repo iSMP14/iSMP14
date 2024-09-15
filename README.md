@@ -1,7 +1,7 @@
 <div class="header" align="center"> <h1>Hello, I'm Javier Cartes, also known as iSMP. </h1> </div>
 <br>
 <div align="center" width="200px">
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcng4MTBhamF5eDk2NGs3Mm54Y3FpNXIyeXNscmdrN3B6endzcnZrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ozf4qM5aX1qUqwtmFF/giphy.gif">
 </div>
 <hr>
 <div class="Aboutme">
